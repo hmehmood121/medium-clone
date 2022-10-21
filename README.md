@@ -2,6 +2,12 @@
 
 This is the clone of famous blog app called medium. The backend is handled by headless CMS called sanity.io.
 
+You can view the deplyed version here.
+
+https://medium-clone-smoky-gamma.vercel.app/
+
+
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
