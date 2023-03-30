@@ -21,9 +21,9 @@ export default function Home ({ posts }: Props) {
         <Header />
         <div className='flex justify-between items-center  bg-yellow-400 border-y border-black py-10 lg:py-0'>
           <div className='px-10 space-y-5'>
-            <h1 className='text-6xl max-w-xl font-serif'><span className='underline decoration-black decoration-4'>Medium</span> is a Place where anyone can read, write and contribute.</h1>
+            <h1 className='text-6xl max-w-xl font-serif'><span className='underline decoration-black decoration-4'>Agriinova</span> is a Place you anyone can read, write and contribute.</h1>
             <h2>
-              Easy to create content and send to million of users and see what others think of it.
+              Agriinova shares the news, articules and blogs about agriculture.
             </h2>
           </div>
           <img className='hidden md:inline-flex h-32 lg:h-full' src="https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png" alt="" />
