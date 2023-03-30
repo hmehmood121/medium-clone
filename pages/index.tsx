@@ -12,11 +12,10 @@ interface Props{
 
 
 export default function Home ({ posts }: Props) {
-  console.log(posts)
   return (
     <div className='max-w-7xl mx-auto'>
       <Head>
-        <title>Create Next App</title>
+        <title>Agriinova</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Header />
